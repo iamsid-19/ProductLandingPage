@@ -83,7 +83,7 @@ nav{
 
 /* home */
 .home-sec{
-    min-height: 100vh;
+    min-height: 630px;
     background-color:rgb(255, 253, 253);
 
 }
@@ -93,8 +93,7 @@ nav{
     justify-content: center;
     align-items: center;
     grid-gap: 30px;
-    position: relative;
-    top: 130px;
+    padding:5rem 0;
 
 }
 img{
